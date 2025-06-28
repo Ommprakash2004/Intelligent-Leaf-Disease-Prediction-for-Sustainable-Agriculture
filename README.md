@@ -1,0 +1,1 @@
+# Intelligent-Leaf-Disease-Prediction-for-Sustainable-Agriculture
